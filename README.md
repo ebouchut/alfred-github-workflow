@@ -10,7 +10,7 @@ You can search through GitHub (`gh`) and your GitHub Enterprise instance (`ghe`)
 Setup
 -----
 
-This workflow requires PHP, which is no longer pre-installed since macOS 12 Montery.  
+This workflow requires PHP, which is no longer pre-installed since macOS 12 Monterey.  
 You can install it via [Homebrew](https://brew.sh) (`brew install php`).
 
 ### For github.com
